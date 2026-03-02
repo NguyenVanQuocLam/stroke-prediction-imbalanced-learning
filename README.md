@@ -6,10 +6,7 @@
 
 
 
-This project investigates stroke prediction using Logistic Regression
-
-under severe class imbalance conditions.
-
+This project investigates stroke prediction using Logistic Regression under severe class imbalance conditions.
 
 
 We compare:
